@@ -9,7 +9,7 @@ This repository provides a simplified way to build the [fsrs-browser](https://gi
 **Usage**:
 1. Clone repository
 ```sh
-git clone https://thenesterov/fsrs-browser-build.git && cd fsrs-browser-build
+git clone https://github.com/thenesterov/fsrs-browser-build.git && cd fsrs-browser-build
 ```
 
 2. Build the project inside a Docker container:
